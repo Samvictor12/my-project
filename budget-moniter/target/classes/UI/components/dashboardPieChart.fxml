@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.scene.chart.PieChart?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.dashboardPieChart">
+   <children>
+      <PieChart fx:id="pieChart" labelsVisible="false" legendSide="RIGHT" prefHeight="200.0" stylesheets="@../../style/dashboardBudgetCard.css" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="10.0">
+         <styleClass>
+            <String fx:value="white-background" />
+            <String fx:value="round-background-edge" />
+         </styleClass>
+      </PieChart>
+   </children>
+</AnchorPane>

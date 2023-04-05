@@ -1,0 +1,22 @@
+.shadow{
+	-fx-effect: dropShadow(three-pass-box,rgba(0,0,0,0.1), 10.0, 0.0, 0.0, 10.0);
+}
+.white-background{
+	-fx-background-color:#fff;
+}
+.transparent{
+	-fx-background-color:rgba(0,0,0,0);
+}
+.round-background-edge{
+	-fx-background-radius: 10
+	;
+}
+.round-border-edge{
+	-fx-border-radius:50;
+}
+.scroll-pane > .viewport {
+   -fx-background-color: transparent;
+}
+.scroll-pane {
+   -fx-background-color: transparent;
+}

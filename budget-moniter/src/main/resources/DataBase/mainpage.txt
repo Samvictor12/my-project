@@ -1,0 +1,1 @@
+0~saving=N/A,totalBudgetBalance=N/A,unUsedAmount=N/A,totalAccountExpence=N/A,active=N/A,totalBudgetAmount=N/A,totalAccountIncome=N/A,totalAccountBalance=N/A:1~saving=0.0,totalBudgetBalance=1500.0,unUsedAmount=28275.0,totalAccountExpence=500.0,active=true,totalBudgetAmount=2000.0,totalAccountIncome=30275.0,totalAccountBalance=29775.0

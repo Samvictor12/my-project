@@ -1,0 +1,1 @@
+0~accountExpence=N/A,accountName=N/A,active=N/A,accountImage=N/A,accountBalance=N/A,accountIncome=N/A:1~accountExpence=500.0,accountName=icici,active=true,accountImage=accountImg/icici.png,accountBalance=25775.0,accountIncome=26275.0:2~accountExpence=0,accountName=fi,active=true,accountImage=accountImg/fi.png,accountBalance=4000.0,accountIncome=4000.0
