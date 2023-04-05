@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.ResourceBundle;
 import com.gluonhq.charm.glisten.mvc.View;
 
-import Backend.inputForm;
+import Backend.Operations;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.fxml.Initializable;
@@ -55,7 +55,7 @@ public class Index implements Initializable {
     @FXML
     private View view;
     
-    inputForm db;
+    Operations db;
     @FXML
     void clickdashBoardTab(MouseEvent event) {
 
@@ -63,7 +63,7 @@ public class Index implements Initializable {
 
 	@Override
 	public void initialize(URL location, ResourceBundle resources) {
-		db = new inputForm();
+		db = new Operations();
 //		db.addAccount("fi", "accountImg/Fi.jpg", "4000");
 		accountCard();
 	}
